@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"          "Legacy spawn list loader"
+	"version"       "1.0.0"
+	"up_date"       "2012-07-09"
+	"author_name"   "TomyLobo"
+	"author_email"  ""
+	"author_url"    ""
+	"info"          "Loads a legacy spawn list in Garry's Mod 13."
+}
